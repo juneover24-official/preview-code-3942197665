@@ -1,7 +1,7 @@
 {
   "qq_number": "3942197665",
   "group_number": "863761455",
-  "updated_at": "2026-11-08T09:43:27+00:00",
+  "updated_at": "2026-11-08T09:43:34+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -44,6 +44,12 @@
       "file": "字漂wyhQ艾比鼠鼠.bds",
       "thumb": "字漂wyhQ艾比鼠鼠.bds_py_26_light_thumb.png",
       "full": "字漂wyhQ艾比鼠鼠.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "盲·wyh.Q艾比鼠鼠",
+      "file": "盲wyhQ艾比鼠鼠.bds",
+      "thumb": "盲wyhQ艾比鼠鼠.bds_py_26_light_thumb.png",
+      "full": "盲wyhQ艾比鼠鼠.bds_py_26_light_thumb.png"
     }
   ]
 }
